@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "831843150013",
+    "firebase_url": "https://animate-my-meal.firebaseio.com",
+    "project_id": "animate-my-meal",
+    "storage_bucket": "animate-my-meal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831843150013:android:0915383677bafdd8",
+        "android_client_info": {
+          "package_name": "com.esprit.animatemymeal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831843150013-el966ofek65d8een8v9juknrjpb2v60m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.esprit.animatemymeal",
+            "certificate_hash": "201a5060054bab3e0fc696d767a6c9ee8d11fb55"
+          }
+        },
+        {
+          "client_id": "831843150013-ovj5k0d8ik65abe9uon847cokk88htl2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8dquAzsYCkRpyoROt2mzCpEhxd3D62es"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831843150013-ovj5k0d8ik65abe9uon847cokk88htl2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
